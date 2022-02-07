@@ -13,6 +13,6 @@ e em seguida o push para o repositório remoto."
 4 - Utilizando o github desktop faça o commit do arquivo das
 alterações.
 
-5 - Agora faça o push orign;
+5 - Agora faça o push origin;
 
 6 - Acesse o repositório remoto e visualize o arquivo casa.txt.
